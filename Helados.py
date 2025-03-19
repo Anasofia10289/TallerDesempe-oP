@@ -93,7 +93,7 @@ def eliminar_helado():
     else:
         print("Helado no encontrado con ese ID.")
 
-# Menú principal
+# Opciones del Menú principal
 def menu():
     while True:
         print("\n--- Gestión de Helados ---")
